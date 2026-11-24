@@ -1,12 +1,6 @@
 # 💰 Personal Finance Tracker
 
 A full-stack web application for managing personal finances, including transaction tracking, budgeting, analytics, and category management.
-
----
-## 🌐 Live
-
-🚀 **Try the app here:**  
-👉 [Open Personal Finance Tracker] https://lecho.vanix.shop
 ---
 ### 🧪 Demo Account
 
